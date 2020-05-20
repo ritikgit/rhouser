@@ -1,8 +1,8 @@
 class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
-        self.MirrorCommand = 'seed'
-        self.TarMirrorCommand = 'seedtar'
+        self.MirrorCommand = 'drive'
+        self.TarMirrorCommand = 'drivetar'
         self.CancelMirror = 'cancel9'
         self.CancelAllCommand = 'cancelall'
         self.ListCommand = 'list'
